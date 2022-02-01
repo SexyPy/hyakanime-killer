@@ -1,5 +1,5 @@
 
-![Logo](https://imgur.com/rMCV5fE.png)
+![Logo](https://www.hyakanime.fr/static/media/Hyak_blanc.0dfb6cb7.png)
 
 
 # hyakanime-killer
